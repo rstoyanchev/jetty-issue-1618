@@ -5,9 +5,6 @@ Run `Main.java` and then `curl -v http://localhost:8080/foo/vv%2F1234/add/2`.
 
 Resulting output:
 ```
-Processing REQUEST to /
-Processing ASYNC to /
-Completing async request
 Processing REQUEST to /foo/vv%2F1234/add/2
 Processing ASYNC to /foo/vv/1234/add/2
 Completing async request
